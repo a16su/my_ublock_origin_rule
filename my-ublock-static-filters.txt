@@ -1,0 +1,8 @@
+! ==========csdn===============
+! login card
+csdn.net##.passport-login-container
+
+! ==========zhihu==============
+!video
+zhihu.com##.Card.TopstoryItem-isRecommend:has(.Feed[data-za-extra-module*='video_id'])
+
