@@ -5,4 +5,17 @@ csdn.net##.passport-login-container
 ! ==========zhihu==============
 !video
 zhihu.com##.Card.TopstoryItem-isRecommend:has(.Feed[data-za-extra-module*='video_id'])
+www.zhihu.com##.VideoAnswerPlayer
+www.zhihu.com##div.TopstoryItem-isRecommend:-abp-has(.ZVideoItem.ContentItem)
+
+! ==========baidu==============
+www.baidu.com##.s-hotsearch-wrapper
+
+! ==========tieba==============
+tieba.baidu.com##div.l_post:has(.fengchao-wrap-feed)
+tieba.baidu.com##div.l_post:has(span.ec-tuiguang)
+
+! ==========bilibili==============
+www.bilibili.com##.adblock-tips
+www.bilibili.com##.report-scroll-module.report-wrap-module.ad-floor.ad-report
 
